@@ -1,0 +1,32 @@
+[
+  {
+    "id": "PK-SML-01",
+    "name": "Small",
+    "dimensions": {
+      "widthCm": 100,
+      "heightCm": 100,
+      "depthCm": 100
+    },
+    "co2Kg": 100
+  },
+  {
+    "id": "PK-MED-02",
+    "name": "Medium",
+    "dimensions": {
+      "widthCm": 200,
+      "heightCm": 200,
+      "depthCm": 200
+    },
+    "co2Kg": 200
+  },
+  {
+    "id": "PK-LRG-03",
+    "name": "Large",
+    "dimensions": {
+      "widthCm": 300,
+      "heightCm": 300,
+      "depthCm": 300
+    },
+    "co2Kg": 300
+  }
+]
