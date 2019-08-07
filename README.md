@@ -9,7 +9,7 @@ At Gousto we send boxes of ingredients to customers to cook at home and create t
 In this test you'll be given two JSON files. 
 
 1) `boxes.json` 
-This contains an array of different box sizes available for us to send an order in. Each box will have an ID, width, height, depth and a CO2 number.
+This contains an array of different box sizes available for us to send an order in. Each box will have an ID, dimensions and a CO2 footprint value.
 2) `orders.json`. 
 This contains an array of orders, each order contains an ID and an array of ingredients. These ingredients will have a volume score.
 
@@ -23,7 +23,7 @@ Once you have the smallest possible box that fits all the ingredients we'd like 
 We'd like you to output 3 things:
 - The sum of the CO2 footprint per box for every order in the file with Intelligent Packaging
 - The sum of the CO2 footprint without Intelligent Packaging (every order would be in the largest box we have).
-- Whether we have succesfully removed a lorry from the road, if we have saved 1000kg of CO2 then this is true (note, these aren't the real numbers, they're much larger!)
+- Whether we have successfully removed a lorry from the road, if we have saved 1000kg of CO2 then this is true (note, these aren't the real numbers, they're much larger!)
 
 2) Output a list of the order IDs and the IDs of the boxes you've matched against them.
 

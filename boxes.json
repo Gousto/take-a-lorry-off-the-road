@@ -7,7 +7,7 @@
       "heightMm": 500,
       "depthMm": 600
     },
-    "co2Kg": 100
+    "co2FootprintKg": 100
   },
   {
     "id": "PK-MED-02",
@@ -17,7 +17,7 @@
       "heightMm": 800,
       "depthMm": 500
     },
-    "co2Kg": 200
+    "co2FootprintKg": 200
   },
   {
     "id": "PK-LRG-03",
@@ -27,6 +27,6 @@
       "heightMm": 1000,
       "depthMm": 500
     },
-    "co2Kg": 300
+    "co2FootprintKg": 300
   }
 ]
