@@ -1,6 +1,6 @@
 # Take a Lorry off the Road With Some Code!
 
-Welcome to the Gousto Tech Test. This test was inspired by a feature we implemented recently which allowed us to send [1 less lorry out for delivery]([https://medium.com/gousto-engineering-techbrunch/taking-a-lorry-off-the-road-with-some-code-a988f70b37c1](https://medium.com/gousto-engineering-techbrunch/taking-a-lorry-off-the-road-with-some-code-a988f70b37c1)) every single day! We'd like you to do something similar.
+Welcome to the Gousto Tech Test. This test was inspired by a feature we implemented recently which allowed us to send [1 less lorry out for delivery](https://medium.com/gousto-engineering-techbrunch/taking-a-lorry-off-the-road-with-some-code-a988f70b37c1) every single day! We'd like you to do something similar.
 
 ## The Problem
 
