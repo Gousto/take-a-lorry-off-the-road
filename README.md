@@ -19,7 +19,7 @@ We'd like you to build an app (command line, REST service, whatever you desire) 
 
 Once you have the smallest possible box that fits all the ingredients we'd like you to return some information to the user
 
-1) Have you taken a box off the road?
+1) Have you taken a lorry off the road?
 We'd like you to output 3 things:
 - The sum of the CO2 footprint per box for every order in the file with Intelligent Packaging
 - The sum of the CO2 footprint without Intelligent Packaging (every order would be in the largest box we have).
