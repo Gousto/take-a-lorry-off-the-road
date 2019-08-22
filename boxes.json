@@ -1,31 +1,31 @@
 [
   {
-    "id": "PK-SML-01",
-    "name": "Small",
-    "dimensions": {
-      "widthMm": 300,
-      "heightMm": 500,
-      "depthMm": 600
-    },
-    "co2FootprintKg": 100
-  },
-  {
-    "id": "PK-MED-02",
+    "id": "PK-MED-01",
     "name": "Medium",
     "dimensions": {
-      "widthMm": 200,
-      "heightMm": 800,
-      "depthMm": 500
+      "widthMm": 30,
+      "heightMm": 50,
+      "depthMm": 60
     },
     "co2FootprintKg": 200
+  },
+  {
+    "id": "PK-SML-02",
+    "name": "Small",
+    "dimensions": {
+      "widthMm": 20,
+      "heightMm": 80,
+      "depthMm": 50
+    },
+    "co2FootprintKg": 100
   },
   {
     "id": "PK-LRG-03",
     "name": "Large",
     "dimensions": {
-      "widthMm": 200,
-      "heightMm": 1000,
-      "depthMm": 500
+      "widthMm": 20,
+      "heightMm": 100,
+      "depthMm": 50
     },
     "co2FootprintKg": 300
   }
