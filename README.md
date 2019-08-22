@@ -1,10 +1,10 @@
 # Take a Lorry off the Road With Some Code!
 
-Welcome to the Gousto Tech Test. This test was inspired by a feature we implemented recently which allowed us to send [1 less lorry out for delivery](https://medium.com/gousto-engineering-techbrunch/taking-a-lorry-off-the-road-with-some-code-a988f70b37c1) every single day! We'd like you to do something similar.
+Welcome to the Gousto Tech Test. This [code kata](http://codekata.com/) was inspired by a feature we implemented recently which allowed us to send [1 less lorry out for delivery](https://medium.com/gousto-engineering-techbrunch/taking-a-lorry-off-the-road-with-some-code-a988f70b37c1) every single day! We'd like you to do something similar.
 
 ## The Problem
 
-At Gousto we send boxes of ingredients to customers to cook at home and create their perfect dinner. Customers are able to choose multiple recpies for a different number of people. This means the number of ingredients in a box can vary, and the volume of those ingredients can vary by even more.
+At Gousto we send boxes of ingredients to customers to cook at home and create their perfect dinner. Customers are able to choose multiple recipes for a different number of people. This means the number of ingredients in a box can vary, and the volume of those ingredients can vary by even more.
 
 In this test you'll be given two JSON files. 
 
