@@ -54,23 +54,27 @@
     "ingredients": [
       {
         "name": "lemon",
-        "volumeCm3": 1
+        "volumeCm3": 5
       },
       {
         "name": "garlic",
-        "volumeCm3": 2.5
+        "volumeCm3": 5
       },
       {
         "name": "ginger",
-        "volumeCm3": 4.2
+        "volumeCm3": 12.5
+      },
+      {
+        "name": "soy",
+        "volumeCm3": 5
       },
       {
         "name": "chicken thigh",
-        "volumeCm3": 24
+        "volumeCm3": 35
       },
       {
         "name": "pita bread",
-        "volumeCm3": 7.4
+        "volumeCm3": 18
       }
     ]
   },
@@ -79,23 +83,27 @@
     "ingredients": [
       {
         "name": "brown onion",
-        "volumeCm3": 3.7
+        "volumeCm3": 7.5
       },
       {
         "name": "soy sauce",
-        "volumeCm3": 2.2
+        "volumeCm3": 5
       },
       {
         "name": "ginger",
-        "volumeCm3": 1.2
+        "volumeCm3": 9
       },
       {
         "name": "cod",
-        "volumeCm3": 4.9
+        "volumeCm3": 25
       },
       {
         "name": "brown rice",
-        "volumeCm3": 11.4
+        "volumeCm3": 26
+      },
+      {
+        "name": "carrots",
+        "volumeCm3": 20
       }
     ]
   },
@@ -225,7 +233,7 @@
       },
       {
         "name": "chicken breast",
-        "volumeCm3": 19
+        "volumeCm3": 39
       },
       {
         "name": "rice",
