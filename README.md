@@ -4,7 +4,10 @@ Welcome to the Gousto Tech Test. This [code kata](http://codekata.com/) was insp
 
 ## The Problem
 
+![Intelligent Packaging Explained](https://i.imgur.com/8iPoykn.png)
+
 At Gousto we send boxes of ingredients to customers to cook at home and create their perfect dinner. Customers are able to choose multiple recipes for a different number of people. This means the number of ingredients in a box can vary, and the volume of those ingredients can vary by even more.
+
 
 In this test you'll be given two JSON files. 
 
