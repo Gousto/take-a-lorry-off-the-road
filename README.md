@@ -16,7 +16,7 @@ This contains an array of different box sizes available for us to send an order 
 2) `orders.json`. 
 This contains an array of orders, each order contains an ID and an array of ingredients. These ingredients will have a volume score.
 
-We'd like you to build an app (command line, REST service, whatever you desire) which takes these two files processes them and determines the smallest possible box that the order will fit into. We call this feature **Intelligent Packaging**
+We'd like you to build an app (command line, REST service, whatever you desire) which takes these two files, processes them and determines the smallest possible box that the order will fit into. We call this feature **Intelligent Packaging**
 
 ## Expected Output
 
@@ -35,7 +35,7 @@ We'd like you to output 3 things:
 
 2) Spend around 2 hours on this, don't feel you have to rush a solution. **You will not be judged on whether you finish or not**. We would much rather you **give us a solution that you are proud of** and feel best displays the type of code you would want to ship into production. That said, make sure there is a way to run your app and it does give some sort of output.
 
-3) Tests are not a hard requirement but are strongly encouraged, if you're not used to testing your code have a go at it anyway. It's not that hard to get started with it and we promise it will be a great skill for you to learn.
+3) Tests are not a hard requirement but are strongly encouraged.
 
 4) Add a Read Me file we'd like you to cover three things. 
 - How to run your app
