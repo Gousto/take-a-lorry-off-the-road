@@ -12,9 +12,9 @@ At Gousto we send boxes of ingredients to customers to cook at home and create t
 
 For this exercise you'll be given two JSON files. 
 
-1) `boxes.json` 
+1) [`boxes.json`](https://github.com/Gousto/take-a-lorry-off-the-road/blob/master/boxes.json)
 This contains an array of different box sizes available for us to send an order in. Each box will have an ID, dimensions and a CO2 footprint value.
-2) `orders.json`. 
+2) [`orders.json`](https://github.com/Gousto/take-a-lorry-off-the-road/blob/master/orders.json). 
 This contains an array of orders, each order contains an ID and an array of ingredients. These ingredients will have a volume score.
 
 We'd like you to build an app which takes these two files processes them and determines the smallest possible box that the order will fit into. We call this feature **Intelligent Packaging**
